@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    background-image: url("file:///C:/Users/Chinonso%20Iwuh/Downloads/order-summary-capstone-project/order-summary-capstone-project/order-summary-component-main/images/pattern-background-desktop.svg");
+    background-position:auto;
+    background-size: 100% auto;
+    background-color: hsl(225, 100%, 94%);
+    background-repeat: no-repeat
+}
+
+.card{
+    margin: 100px 450px 100px 450px;
+    /* padding: 2px 2px; */
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    width: 450px;
+    height: auto;
+    position: relative;
+    text-align: center;
+    background-color: white;
+}
+
+.card-content{
+    /* padding: 100px; */
+    /* width: 100%; */
+    /* display: flex; */
+}
+
+.details_file h2{
+    text-align: center;
+}
+
+.details_file p{
+    text-align: center;
+    padding: 0px 20px 0px 20px;
+}
+
+.pic_file .image1 {
+    border-radius: 5px 5px 0 0;
+    width: 100;
+    height: 100%;
+}
+
+.music{
+    /* margin: 20px 40px 20px 40px; */
+    margin: 0 auto;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    height: 73px;
+    width: 80%;
+    text-align: center;
+    /* padding-top: 5px;
+    padding-bottom: 5px; */
+}
+
+.music .music_icon{
+    padding: 5px 5px;
+    float: left;
+    margin-top: 4.5px;
+    margin-bottom: 4px;
+}
+
+.music .music_icon .image2{
+    width: auto;
+    height: auto;
+    padding: 3px 3px;
+}
+
+.music .price{
+    padding: 10px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    float: left;
+    width: auto;
+    height: auto;
+}
+
+.music .price strong{
+    margin-bottom: 5px;
+    margin-top: 15px;
+    padding: 15px;
+} */
+
+.music .change{
+    float: right;
+}
+
+.music .change a{
+    padding-top: 5px;
+}
+
+
+
+.complete_payment{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cancel-order{
+    /* margin: 10px 0px 10px 103px; */
+    margin-left: auto;
+    margin-right: auto;
+}
